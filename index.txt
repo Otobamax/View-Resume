@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF -8">
+        <h1><tittle>My Resume</tittle></h1>
+            <h2>Popoola Samuel Oloruntoba</h2>
+            <a href="https://www.linkedin.com/in/toba-popoola">Linkedin Profile</a> <a>Tell/Whatsapp +2348037979366</a>
+    </head>
+   <hr />
+    <body>
+        <h3>Summary</h3>
+<p>Am an administrator with over 15 years of experience in:
+    <ul>
+ <li>record keeping</li> 
+ <li>team leadership</li> 
+ <li>sales</li>
+ <li>assembling facility reports</li>  
+ <li>making presentations</li>
+ <li>supervise projects</li>
+ <li>ensure prompt and quality delivery of projects</li>
+ <li>relating with international partners and maintaining the utmost confidentiality.</li>
+    </ul>
+ 
+<h3>Education</h3>
+			<ul>
+	<li>Lagos State University </li>  
+<ul>
+    <li>Bsc. in Industrial Relations and Personnel Management		2009</li>
+    </ul>                                     
+</ul>
+<ul>
+    <li>Institute of Strategic Management of Nigeria</li>
+    <ul>
+    <li>Associate member								2010</li>
+    </ul>
+</ul>
+<ul>
+    <li>Web Developer           2024</li>
+</ul>
+			  <h3>Work Experience</h3>
+
+              <h4>Sales And Head of Operations</h4>
+              <ol>
+                <li>Moonpad Resources							2010 till date	</li>
+                <a href="https://wwww.moonpadresources.com">Moonpad Resources</a> 
+                
+                <ul>
+                    <li>spearhead and manage relationship with both local and international suppliers and custom agent.</li>
+                    <li>Collate customers order and ensure customer satisfaction.</li>
+                    <li>I plan, direct and coordinate supportive services of the organization</li>
+                    <li>Maintain staff by recruiting, selecting, orienting, and training employees; maintaining a safe and secure work environment.</li>
+                    <li>Communicate job expectations, planning, monitoring, and appraising job results.</li>
+                    <li>Negotiate price, quality, and delivery.</li>
+                    <li>Contribute to team effort by accomplishing related results as needed.</li>
+                    <li>Achieves financial objectives by anticipating requirements, submitting information for budget preparation.</li>
+                    </ul>
+
+                    <h4>Admin Assistant</h4>
+                <ol>
+                    <li>Le’Venue Properties Development Co. Ltd     2008 to 2010</li>
+                    <a href="https://wwww.thelevenuegroup.com">Le’Venue Property Development Company</a>
+                    <ul>
+                        <li>Preparing, repairing and posting job advertisements</li>
+                        <li>screening applications, arranging interviews, participating
+                            in the selection process and administering pre-employment
+                            test as required.</li>
+                        <li>Keeping up with current issues and matters in the organization as
+                            related to the HR department.</li>
+                        <li>Putting through various queries.</li>
+                        <li>Exercising individual judgment while dealing with 
+                            potential or real trouble and bringing them to the managers
+                            attention.</li>
+
+                    </ul>
+                </ol>
+
+              </ol>
+<h3>Skills</h3>
+<ul>
+<li>Negotiation</li>
+<li>Public Relation</li>
+<li>Labour Relation</li>
+<li>Web Development</li>
+<li>Multi Tasking</li>
+</ul>
+
+<h3>Hobby</h3>
+<li>Travelling</li>
+             
+        
+
+
+    </body>
